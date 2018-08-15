@@ -1,0 +1,8 @@
+author = Pandemic,Artemoha23
+version = 0.2
+displayName = Lost Dream
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
